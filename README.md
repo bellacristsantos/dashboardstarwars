@@ -1,2 +1,3 @@
 # dashboardstarwars
-Created with CodeSandbox
+
+https://codesandbox.io/s/dashboardstarwars-forked-xcj9h
